@@ -10,7 +10,7 @@ How to Activate Disney Plus with the 8-Digit Begin Code
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_21.png
    :width: 350px
    :align: center
    :height: 100px
